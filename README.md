@@ -1,2 +1,2 @@
-# obsidian_snippets
-CSS snippets is use in Obsidian to make it look ✨perfect!
+# Obsidian snippets & templates
+CSS snippets and vault templates is use to make Obsidian look ✨perfect!
