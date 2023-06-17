@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "ad568aed6a71d9c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a07d6e335e41e64",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Storyline.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "17b2ce6ae2e6a357"
+      },
+      {
+        "id": "8345808dc1b3429f",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Storyline.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": true
+            }
+          }
+        },
+        "group": "17b2ce6ae2e6a357"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c401fb4ed49f1d9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "38baf9e6e945e6dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a84782336763513f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "462bb66b131db72e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f46fdcebf628a969",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab37f37b7ff93306",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a47294f1ed33473b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Storyline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1a07d6e335e41e64",
+  "lastOpenFiles": [
+    "Storyline.md"
+  ]
+}

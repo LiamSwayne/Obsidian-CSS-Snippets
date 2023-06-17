@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"General\"",
+      "color": {
+        "a": 1,
+        "rgb": 5415904
+      }
+    },
+    {
+      "query": "path:\"Story\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Lore\"",
+      "color": {
+        "a": 1,
+        "rgb": 6938706
+      }
+    },
+    {
+      "query": "path:\"Characters\"",
+      "color": {
+        "a": 1,
+        "rgb": 16775772
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 4.34403483072917,
+  "collapse-forces": false,
+  "centerStrength": 0.892578125,
+  "repelStrength": 7.9052734375,
+  "linkStrength": 1,
+  "linkDistance": 79,
+  "scale": 1.122294377796711,
+  "close": true
+}

@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "6bc82de71d6790af",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d51826755f09f86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aa7a29a3a17aed8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db6bd064546b21ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb4e0090ba791735",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e83f90251d0f50ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7649983557702e62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec61fb53acb396a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c8172e0b733dc01b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae9dcb5e6bb53550",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bee983d073abadb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c33a0a69ece3e5fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "command-palette:Open command palette": true,
+      "markdown-importer:Open format converter": true
+    }
+  },
+  "active": "9aa7a29a3a17aed8",
+  "lastOpenFiles": [
+    "General/★General.md",
+    "Characters/Erma **.md"
+  ]
+}
