@@ -1,6 +1,8 @@
+/* It is reccomened to disable indentation guides in Settings -> Editor -> Display -> Show indentation guides */
+
 :root {
-    --initial-indentation: 10;
-    --layered-indentation: 15;
+    --initial-indentation: 10; /* Initial indentation amount */
+    --layered-indentation: 15; /* Amount of additional indentation per level */
 }
 
 .HyperMD-list-line.HyperMD-list-line-1 {
