@@ -1,6 +1,6 @@
 # Obsidian CSS Snippets
 
-CSS snippets that customize the look of obsidian.
+A library of CSS snippets that customize the look of obsidian.
 
 ### Bulleted list indentation
 - [Cutomize indentation of each tier of bulleted lists.](https://github.com/LiamSwayne/Obsidian-Resources/blob/main/bullet-list-indentation.css)
