@@ -1,31 +1,64 @@
+:root {
+    --initial-indentation: 10;
+    --layered-indentation: 15;
+}
+
 .HyperMD-list-line.HyperMD-list-line-1 {
-    padding-left: 10px !important;
-  }
-  
-  .HyperMD-list-line.HyperMD-list-line-2 {
-    padding-left: 25px !important;
-  }
-  
-  .HyperMD-list-line.HyperMD-list-line-3 {
-    padding-left: 40px !important;
-  }
-  
-  .HyperMD-list-line.HyperMD-list-line-4{
-    padding-left: 55px !important;
-  }
-  
-  .HyperMD-list-line.HyperMD-list-line-5 {
-    padding-left: 70px !important;
-  }
-  
-  .HyperMD-list-line.HyperMD-list-line-6 {
-    padding-left: 85px !important;
-  }
-  
-  .HyperMD-list-line.HyperMD-list-line-7 {
-    padding-left: 100px !important;
-  }
-  
-  .HyperMD-list-line.HyperMD-list-line-8{
-    padding-left: 115px !important;
-  }
+    padding-left: calc(var(--initial-indentation) * 1px) !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-2 {
+    padding-left: calc(var(--initial-indentation) * 1px + var(--layered-indentation) * 1px) !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-3 {
+    padding-left: calc(var(--initial-indentation) * 1px + var(--layered-indentation) * 2px) !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-4 {
+    padding-left: calc(var(--initial-indentation) * 1px + var(--layered-indentation) * 3px) !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-5 {
+    padding-left: calc(var(--initial-indentation) * 1px + var(--layered-indentation) * 4px) !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-6 {
+    padding-left: calc(var(--initial-indentation) * 1px + var(--layered-indentation) * 5px) !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-7 {
+    padding-left: calc(var(--initial-indentation) * 1px + var(--layered-indentation) * 6px) !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-8 {
+    padding-left: calc(var(--initial-indentation) * 1px + var(--layered-indentation) * 7px) !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-9 {
+    padding-left: calc(var(--initial-indentation) * 1px + var(--layered-indentation) * 8px) !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-10 {
+    padding-left: calc(var(--initial-indentation) * 1px + var(--layered-indentation) * 9px) !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-11 {
+    padding-left: calc(var(--initial-indentation) * 1px + var(--layered-indentation) * 10px) !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-12 {
+    padding-left: calc(var(--initial-indentation) * 1px + var(--layered-indentation) * 11px) !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-13 {
+    padding-left: calc(var(--initial-indentation) * 1px + var(--layered-indentation) * 12px) !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-14 {
+    padding-left: calc(var(--initial-indentation) * 1px + var(--layered-indentation) * 13px) !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-15 {
+    padding-left: calc(var(--initial-indentation) * 1px + var(--layered-indentation) * 14px) !important;
+}
