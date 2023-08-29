@@ -14,3 +14,4 @@ A library of CSS snippets that customize the look of obsidian.
 - [Hide writing mode.](https://github.com/LiamSwayne/Obsidian-CSS-Snippets/blob/main/status-bar-hide-writing-mode.css)
 - [Hide word count.](https://github.com/LiamSwayne/Obsidian-Resources/blob/main/status-bar-word-count-of-note-off.css)
 - [Hide character count.](https://github.com/LiamSwayne/Obsidian-CSS-Snippets/blob/main/status-bar-character-count-off.css)
+- [Hide Obsidian Sync status](https://github.com/LiamSwayne/Obsidian-Resources/blob/main/hide-sync-status.css)
