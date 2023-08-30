@@ -21,4 +21,17 @@ OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-Have_fun_my_dude!
+*****************************************************
+* This is a comment section in a TXT file.         *
+* Comments in TXT files are just lines of text     *
+* that provide additional information about the    *
+* content or purpose of the file.                  *
+*                                                 *
+* You can use comments to explain the structure,   *
+* context, or usage of the content in the TXT file.*
+*                                                 *
+* Remember that comments in TXT files are not      *
+* treated as code or executable instructions.      *
+* They are purely for human reading.               *
+*****************************************************
+
