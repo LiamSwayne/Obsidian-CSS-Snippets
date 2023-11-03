@@ -5,8 +5,9 @@ A library of CSS snippets that customize the look of obsidian.
 ### Sidebar
 - [Wrap file explorer names](https://github.com/LiamSwayne/Obsidian-Resources/blob/main/wrap-file-exporer-names.css)
 
-### Bulleted list indentation
+### Content formatting
 - [Cutomize indentation of each tier of bulleted lists](https://github.com/LiamSwayne/Obsidian-Resources/blob/main/bullet-list-indentation.css) (when using this snippet it is recommended to turn off indentation guides in Settings -> Editor -> Display -> Show indentation guides)
+- [Remove additional header spacing](https://github.com/LiamSwayne/Obsidian-CSS-Snippets/blob/main/remove-additional-header-spacing.css)
 
 ### Hide toaster popups
 - [Hide toaster popup messages](https://github.com/LiamSwayne/Obsidian-CSS-Snippets/blob/main/hide-toaster-notices.css)
