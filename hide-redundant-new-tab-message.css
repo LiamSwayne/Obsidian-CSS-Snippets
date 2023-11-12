@@ -1,0 +1,3 @@
+.empty-state-action-list > :nth-child(3) {
+    display: none;
+}
