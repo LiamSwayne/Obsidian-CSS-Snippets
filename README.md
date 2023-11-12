@@ -2,6 +2,9 @@
 
 A library of CSS snippets that customize the look of obsidian.
 
+### Empty tab
+- [Hide redundant "Go to file (⌘O)" and "See recent files (⌘O)"](./hide-redundant-new-tab-message.css)
+
 ### Sidebar
 - [Wrap file explorer names](./wrap-file-exporer-names.css)
 
