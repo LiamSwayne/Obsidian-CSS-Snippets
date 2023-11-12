@@ -3,24 +3,27 @@
 A library of CSS snippets that customize the look of obsidian.
 
 ### Sidebar
-- [Wrap file explorer names](https://github.com/LiamSwayne/Obsidian-Resources/blob/main/wrap-file-exporer-names.css)
+- [Wrap file explorer names](./wrap-file-exporer-names.css)
 
 ### Content formatting
-- [Cutomize indentation of each tier of bulleted lists](https://github.com/LiamSwayne/Obsidian-Resources/blob/main/bullet-list-indentation.css) (when using this snippet it is recommended to turn off indentation guides in Settings -> Editor -> Display -> Show indentation guides)
-- [Remove additional header spacing](https://github.com/LiamSwayne/Obsidian-CSS-Snippets/blob/main/remove-additional-header-spacing.css)
+- [Cutomize indentation of each tier of bulleted lists](./bullet-list-indentation.css) (when using this snippet it is recommended to turn off indentation guides in Settings -> Editor -> Display -> Show indentation guides)
+- [Remove additional header spacing](./remove-additional-header-spacing.css)
 
 ### Hide toaster popups
-- [Hide toaster popup messages](https://github.com/LiamSwayne/Obsidian-CSS-Snippets/blob/main/hide-toaster-notices.css)
+- [Hide toaster popup messages](./hide-toaster-notices.css)
 
 ### Writing view button
-- [Hide reader vs. live-preview button](https://github.com/LiamSwayne/Obsidian-CSS-Snippets/blob/main/hide-reader-live-preview-button.css)
+- [Hide reader vs. live-preview button](./hide-reader-live-preview-button.css)
 
 ### Status bar
-- [Hide](https://github.com/LiamSwayne/Obsidian-Resources/blob/main/status-bar-off.css)
-- [Hide backlinks count](https://github.com/LiamSwayne/Obsidian-Resources/blob/main/status-bar-backlinks-off.css)
-- [Hide writing mode](https://github.com/LiamSwayne/Obsidian-CSS-Snippets/blob/main/status-bar-hide-writing-mode.css)
-- [Hide word count](https://github.com/LiamSwayne/Obsidian-Resources/blob/main/status-bar-word-count-of-note-off.css)
-- [Hide character count](https://github.com/LiamSwayne/Obsidian-CSS-Snippets/blob/main/status-bar-character-count-off.css)
-- [Hide Obsidian Sync status](https://github.com/LiamSwayne/Obsidian-Resources/blob/main/hide-sync-status.css)
-- [Hide plugin spacer](https://github.com/LiamSwayne/Obsidian-CSS-Snippets/blob/main/status-bar-plugin-spacer-off.css)
-- [Move status bar left or right (to account for spacing issues)](https://github.com/LiamSwayne/Obsidian-CSS-Snippets/blob/main/move-status-bar.css)
+- [Hide](./status-bar-off.css)
+- [Hide backlinks count](./status-bar-backlinks-off.css)
+- [Hide writing mode](./status-bar-hide-writing-mode.css)
+- [Hide word count](./status-bar-word-count-of-note-off.css)
+- [Hide character count](./status-bar-character-count-off.css)
+- [Hide Obsidian Sync status](./hide-sync-status.css)
+- [Hide plugin spacer](./status-bar-plugin-spacer-off.css)
+- [Move status bar left or right (to account for spacing issues)](./move-status-bar.css)
+
+### Excalidraw
+- [Hide welcome info](./hide-excalidraw-welcome.css)
