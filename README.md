@@ -28,5 +28,10 @@ A library of CSS snippets that customize the look of obsidian.
 - [Hide plugin spacer](./status-bar-plugin-spacer-off.css)
 - [Move status bar left or right (to account for spacing issues)](./move-status-bar.css)
 
+# Plugin Snippets
+
 ### Excalidraw
 - [Hide welcome info](./hide-excalidraw-welcome.css)
+
+### Better Word Count
+- [Use Better Word Count plugin word count instead of built-in word count.](./replace-builtin-word-count-with-better-word-count.css)
