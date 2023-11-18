@@ -25,7 +25,6 @@ A library of CSS snippets that customize the look of obsidian.
 - [Hide word count](./status-bar-word-count-of-note-off.css)
 - [Hide character count](./status-bar-character-count-off.css)
 - [Hide Obsidian Sync status](./hide-sync-status.css)
-- [Hide plugin spacer](./status-bar-plugin-spacer-off.css)
 - [Move status bar left or right (to account for spacing issues)](./move-status-bar.css)
 
 # Plugin Snippets
