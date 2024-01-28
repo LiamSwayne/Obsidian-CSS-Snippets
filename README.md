@@ -11,6 +11,7 @@ A library of CSS snippets that customize the look of obsidian.
 ### Content formatting
 - [Cutomize indentation of each tier of bulleted lists](./bullet-list-indentation.css) (when using this snippet it is recommended to turn off indentation guides in Settings -> Editor -> Display -> Show indentation guides)
 - [Remove additional header spacing](./remove-additional-header-spacing.css)
+- [Decrease space above note title](./decrease-space-above-title.css)
 
 ### Hide toaster popups
 - [Hide toaster popup messages](./hide-toaster-notices.css)
