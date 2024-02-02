@@ -13,6 +13,10 @@ A library of CSS snippets that customize the look of obsidian.
 - [Remove additional header spacing](./remove-additional-header-spacing.css)
 - [Decrease space above note title](./decrease-space-above-title.css)
 
+### Tables
+- [Change font size](./resize-table-font.css)
+- [Remove top and bottom spacing and controls from tables](./hide-table-top-bottom-controls.css)
+
 ### Hide toaster popups
 - [Hide toaster popup messages](./hide-toaster-notices.css)
 
