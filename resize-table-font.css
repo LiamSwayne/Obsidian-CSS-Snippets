@@ -1,0 +1,9 @@
+/* regular font size is 16px */
+.resize-table-font .table-cell-wrapper {
+    font-size: 14px !important;
+}
+
+/*
+To apply this css to a note, add this to the frontmatter:
+cssclass: "resize-table-font"
+*/
