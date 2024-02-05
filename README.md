@@ -12,6 +12,7 @@ A library of CSS snippets that customize the look of obsidian.
 - [Cutomize indentation of each tier of bulleted lists](./bullet-list-indentation.css) (when using this snippet it is recommended to turn off indentation guides in Settings -> Editor -> Display -> Show indentation guides)
 - [Remove additional header spacing](./remove-additional-header-spacing.css)
 - [Decrease space above note title](./decrease-space-above-title.css)
+- [Hide callout icon using `|no-icon` after title](./hide-callout-icon.css)
 - [Change table font size](./resize-table-font.css)
 - [Remove top and bottom spacing and controls from tables](./hide-table-top-bottom-controls.css)
 
