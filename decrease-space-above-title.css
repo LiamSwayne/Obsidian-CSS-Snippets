@@ -1,7 +1,7 @@
-.canvas-node-container .inline-title {
-    margin-top: initial !important;
-}
-
 .inline-title {
     margin-top: -20px !important;
+}
+
+.canvas-node-container .inline-title {
+    margin-top: initial !important;
 }
