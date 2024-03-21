@@ -15,6 +15,7 @@ A library of CSS snippets that customize the look of obsidian.
 - [Hide callout icon using `|no-icon` after title](./hide-callout-icon.css)
 - [Change table font size](./resize-table-font.css)
 - [Remove top and bottom spacing and controls from tables](./hide-table-top-bottom-controls.css)
+- [Hide empty line above tables](./hide-empty-line-above-tables.css)
 
 ### Hide toaster popups
 - [Hide toaster popup messages](./hide-toaster-notices.css)
