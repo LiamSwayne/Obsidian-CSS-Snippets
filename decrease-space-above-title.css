@@ -1,7 +1,8 @@
 .inline-title {
-    margin-top: -20px !important;
+    margin-top: -26px !important;
+    margin-bottom: 10px !important;
 }
 
 .node-insert-event .inline-title {
-    margin-top: initial !important;
+    margin-top: initial;
 }
