@@ -1,0 +1,18 @@
+/* invert colors of an image by adding #invert after file path but before width */
+/* ex inverted colors: [[path/to/image.jpg#invert]] */
+/* ex inverted colors with width 400: [[path/to/image.jpg#invert|400]] */
+
+.theme-dark div[src$="#invert"] img,
+.theme-dark span[src$="#invert"] img {
+  filter: invert(1) hue-rotate(180deg);
+  mix-blend-mode: screen;
+}
+
+.theme-dark div[src$="#invert"] {
+  background-color: var(--background-primary);
+}
+
+.theme-light div[src$="#invertW"] img,
+.theme-light span[src$="invertW"] img {
+  filter: invert(1) hue-rotate(180deg);
+}
