@@ -16,6 +16,7 @@ A library of CSS snippets that customize the look of obsidian.
 - [Change table font size](./resize-table-font.css)
 - [Remove top and bottom spacing and controls from tables](./hide-table-top-bottom-controls.css)
 - [Hide empty line above tables](./hide-empty-line-above-tables.css)
+- [Invert colors of images with `#invert`](./invert-colors-option.css)
 
 ### Hide toaster popups
 - [Hide toaster popup messages](./hide-toaster-notices.css)
