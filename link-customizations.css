@@ -2,23 +2,57 @@
 .cm-link a {
     color: #388bff !important;
     transition: color 0.3s ease;
+    text-decoration-line: underline !important;
 }
 
 .cm-link a:hover {
     color: #78affd !important;
+    text-decoration-line: underline !important;
+}
+
+/* make color persist when editing */
+.cm-link:not(.cm-formatting) {
+    color: #388bff !important;
+    text-decoration-line: underline !important;
+}
+
+.cm-url:not(.cm-formatting) {
+    color: #388bff !important;
+    text-decoration-line: underline !important;
 }
 
 /* hide external link icon */
 .external-link.cm-formatting-link-string {
     display: none;
+    text-decoration-line: underline !important;
 }
 
 /* override internal link color */
 .cm-hmd-internal-link a {
     color: #9471ff	!important;
     transition: color 0.3s ease;
+    text-decoration-line: underline !important;
 }
 
 .cm-hmd-internal-link a:hover {
     color: #b59cff !important;
+    text-decoration-line: underline !important;
+}
+
+/* make color persist when editing */
+.cm-hmd-internal-link.cm-list-2:not(.cm-formatting) {
+    color: #9471ff !important;
+    text-decoration-line: underline !important;
+}
+
+/* regular links */
+.cm-url:not(.cm-string) a {
+    color: #388bff !important;
+    transition: color 0.3s ease;
+    text-decoration-line: underline !important;
+}
+
+.cm-url:not(.cm-string) a:hover {
+    color: #78affd !important;
+    text-decoration-line: underline !important;
 }
