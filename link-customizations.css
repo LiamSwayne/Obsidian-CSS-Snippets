@@ -1,0 +1,24 @@
+/* make external links blue */
+.cm-link a {
+    color: #388bff !important;
+    transition: color 0.3s ease;
+}
+
+.cm-link a:hover {
+    color: #78affd !important;
+}
+
+/* hide external link icon */
+.external-link.cm-formatting-link-string {
+    display: none;
+}
+
+/* override internal link color */
+.cm-hmd-internal-link a {
+    color: #9471ff	!important;
+    transition: color 0.3s ease;
+}
+
+.cm-hmd-internal-link a:hover {
+    color: #b59cff !important;
+}
