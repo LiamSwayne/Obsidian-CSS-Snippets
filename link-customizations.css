@@ -11,7 +11,7 @@
 }
 
 /* make color persist when editing */
-.cm-link:not(.cm-formatting) {
+.cm-link:not(.cm-formatting):not(.cm-hmd-barelink) {
     color: #67a6ff !important;
     text-decoration-line: underline !important;
 }
@@ -28,7 +28,7 @@
 }
 
 /* override internal link color */
-.cm-hmd-internal-link a {
+.cm-hmd-internal-link a, .cm-hmd-barelink:not(.cm-formatting) {
     color: #aa8eff	!important;
     transition: color 0.3s ease;
     text-decoration-line: underline !important;
