@@ -1,58 +1,117 @@
 /* make external links blue */
-.cm-link a {
-    color: #67a6ff !important;
-    transition: color 0.3s ease;
-    text-decoration-line: underline !important;
+.cm-link:not(.cm-strikethrough) a {
+   color: #67a6ff !important;
+   transition: color 0.3s ease;
+   text-decoration-line: underline !important;
 }
 
-.cm-link a:hover {
-    color: #8dbdff !important;
-    text-decoration-line: underline !important;
+.cm-link:not(.cm-strikethrough) a:hover {
+   color: #8dbdff !important;
+   text-decoration-line: underline !important;
 }
 
 /* make color persist when editing */
-.cm-link:not(.cm-formatting):not(.cm-hmd-barelink) {
-    color: #67a6ff !important;
-    text-decoration-line: underline !important;
+.cm-link:not(.cm-formatting):not(.cm-hmd-barelink):not(.cm-strikethrough) {
+   color: #67a6ff !important;
+   text-decoration-line: underline !important;
 }
 
-.cm-url:not(.cm-formatting) {
-    color: #67a6ff !important;
-    text-decoration-line: underline !important;
+.cm-url:not(.cm-formatting):not(.cm-strikethrough) {
+   color: #67a6ff !important;
+   text-decoration-line: underline !important;
 }
 
 /* hide external link icon */
-.external-link.cm-formatting-link-string {
-    display: none;
-    text-decoration-line: underline !important;
+.external-link.cm-formatting-link-string:not(.cm-strikethrough) {
+   display: none;
+   text-decoration-line: underline !important;
 }
 
 /* override internal link color */
-.cm-hmd-internal-link a, .cm-hmd-barelink:not(.cm-formatting) {
-    color: #aa8eff	!important;
-    transition: color 0.3s ease;
-    text-decoration-line: underline !important;
+.cm-hmd-internal-link:not(.cm-strikethrough) a, .cm-hmd-barelink:not(.cm-formatting):not(.cm-strikethrough) {
+   color: #aa8eff !important;
+   transition: color 0.3s ease;
+   text-decoration-line: underline !important;
 }
 
-.cm-hmd-internal-link a:hover {
-    color: #bfaaff !important;
-    text-decoration-line: underline !important;
+.cm-hmd-internal-link:not(.cm-strikethrough) a:hover {
+   color: #bfaaff !important;
+   text-decoration-line: underline !important;
 }
 
 /* make color persist when editing */
-.cm-hmd-internal-link.cm-list-2:not(.cm-formatting) {
-    color: #aa8eff !important;
-    text-decoration-line: underline !important;
+.cm-hmd-internal-link.cm-list-2:not(.cm-formatting):not(.cm-strikethrough) {
+   color: #aa8eff !important;
+   text-decoration-line: underline !important;
 }
 
 /* regular links */
-.cm-url:not(.cm-string) a {
-    color: #67a6ff !important;
-    transition: color 0.3s ease;
-    text-decoration-line: underline !important;
+.cm-url:not(.cm-string):not(.cm-strikethrough) a {
+   color: #67a6ff !important;
+   transition: color 0.3s ease;
+   text-decoration-line: underline !important;
 }
 
-.cm-url:not(.cm-string) a:hover {
-    color: #8dbdff !important;
-    text-decoration-line: underline !important;
+.cm-url:not(.cm-string):not(.cm-strikethrough) a:hover {
+   color: #8dbdff !important;
+   text-decoration-line: underline !important;
+}
+
+/* strikethrough external links */
+.cm-link.cm-strikethrough a {
+   color: #67a6ff !important;
+   transition: color 0.3s ease;
+   text-decoration-line: underline line-through !important;
+}
+
+.cm-link.cm-strikethrough a:hover {
+   color: #8dbdff !important;
+   text-decoration-line: underline line-through !important;
+}
+
+/* make color persist when editing strikethrough external links */
+.cm-link.cm-strikethrough:not(.cm-formatting):not(.cm-hmd-barelink) {
+   color: #67a6ff !important;
+   text-decoration-line: underline line-through !important;
+}
+
+.cm-url.cm-strikethrough:not(.cm-formatting) {
+   color: #67a6ff !important;
+   text-decoration-line: underline line-through !important;
+}
+
+/* hide external link icon for strikethrough links */
+.external-link.cm-formatting-link-string.cm-strikethrough {
+   display: none;
+   text-decoration-line: underline line-through !important;
+}
+
+/* strikethrough internal links */
+.cm-hmd-internal-link.cm-strikethrough a, .cm-hmd-barelink.cm-strikethrough:not(.cm-formatting) {
+   color: #aa8eff !important;
+   transition: color 0.3s ease;
+   text-decoration-line: underline line-through !important;
+}
+
+.cm-hmd-internal-link.cm-strikethrough a:hover {
+   color: #bfaaff !important;
+   text-decoration-line: underline line-through !important;
+}
+
+/* make color persist when editing strikethrough internal links */
+.cm-hmd-internal-link.cm-list-2.cm-strikethrough:not(.cm-formatting) {
+   color: #aa8eff !important;
+   text-decoration-line: underline line-through !important;
+}
+
+/* strikethrough regular links */
+.cm-url.cm-strikethrough:not(.cm-string) a {
+   color: #67a6ff !important;
+   transition: color 0.3s ease;
+   text-decoration-line: underline line-through !important;
+}
+
+.cm-url.cm-strikethrough:not(.cm-string) a:hover {
+   color: #8dbdff !important;
+   text-decoration-line: underline line-through !important;
 }
