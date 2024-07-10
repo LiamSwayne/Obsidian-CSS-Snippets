@@ -46,3 +46,6 @@ A library of CSS snippets that customize the look of obsidian.
 
 ### Better Word Count
 - [Use Better Word Count plugin word count instead of built-in word count.](./replace-builtin-word-count-with-better-word-count.css)
+
+### Trash Explorer
+- [Hide ribbon icon](./hide-trash-explorer-sidebar-icon.css)
