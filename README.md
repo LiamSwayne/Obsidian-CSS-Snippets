@@ -10,7 +10,7 @@ A library of CSS snippets that customize the look of obsidian.
 - [Wrap file explorer names](./wrap-file-exporer-names.css)
 - [Hide right-sidebar button](./hide-right-sidebar-button.css)
 
-# Navbar
+### Navbar
 - [Hide "stack tabs" button](hide-stack-tabs-button.css)
 
 ### Content formatting
