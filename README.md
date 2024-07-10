@@ -4,9 +4,14 @@ A library of CSS snippets that customize the look of obsidian.
 
 ### Empty tab
 - [Hide redundant "Go to file (⌘O)" and "See recent files (⌘O)"](./hide-unnecessary-new-tab-buttons.css)
+- [Make empty tabs completely empty](empty-tabs-truly-empty.css)
 
 ### Sidebar
 - [Wrap file explorer names](./wrap-file-exporer-names.css)
+- [Hide right-sidebar button](./hide-right-sidebar-button.css)
+
+# Navbar
+- [Hide stack tabs button](hide-stack-tabs-button.css)
 
 ### Content formatting
 - [Cutomize indentation of each tier of bulleted lists](./bullet-list-indentation.css) (when using this snippet it is recommended to turn off indentation guides in Settings -> Editor -> Display -> Show indentation guides)
