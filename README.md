@@ -11,7 +11,7 @@ A library of CSS snippets that customize the look of obsidian.
 - [Hide right-sidebar button](./hide-right-sidebar-button.css)
 
 # Navbar
-- [Hide stack tabs button](hide-stack-tabs-button.css)
+- [Hide "stack tabs" button](hide-stack-tabs-button.css)
 
 ### Content formatting
 - [Cutomize indentation of each tier of bulleted lists](./bullet-list-indentation.css) (when using this snippet it is recommended to turn off indentation guides in Settings -> Editor -> Display -> Show indentation guides)
