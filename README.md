@@ -1,5 +1,6 @@
 # Obsidian CSS Snippets
-> [License](./LICENSE.md): Do whatever you want, no attribution required.
+> [License](./LICENSE.md) TL;DR: Do whatever you want, no attribution required.
+
 A library of CSS snippets that customize the look of obsidian.
 
 ### Empty tab
