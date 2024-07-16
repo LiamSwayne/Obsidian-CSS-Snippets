@@ -1,5 +1,5 @@
 # Obsidian CSS Snippets
-> [License](./LICENSE.txt) TL;DR: Do whatever you want, no attribution required.
+> [License](./LICENSE.txt) TL;DR: Public domain, no attribution needed.
 
 A library of CSS snippets that customize the look of obsidian.
 
