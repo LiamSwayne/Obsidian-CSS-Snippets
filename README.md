@@ -24,6 +24,7 @@ A library of CSS snippets that customize the look of obsidian.
 - [Hide empty line above tables](./hide-empty-line-above-tables.css)
 - [Invert colors of images with `#invert`](./invert-colors-option.css)
 - [External links are blue; all links transition color; no external link icon](./link-customizations.css)
+- [Resize mermaid diagrams to fit](./resize-mermaid-diagrams.css)
 
 ### Hide toaster popups
 - [Hide toaster popup messages](./hide-toaster-notices.css)
